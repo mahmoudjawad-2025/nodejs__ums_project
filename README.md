@@ -12,8 +12,8 @@ A robust, secure, and fully-featured User Management System and Blog API built w
 - [Key Features](#-key-features)
 - [Tech Stack](#-tech-stack)
 - [Installation & Setup](#-installation--setup)
-- [API Documentation](#-api-documentation)
 - [Architecture & Directory Structure](#-architecture--directory-structure)
+- [API Documentation](#-api-documentation)
 - [Contributing](#-contributing)
 - [Contact](#-contact)
 
@@ -28,6 +28,8 @@ A robust, secure, and fully-featured User Management System and Blog API built w
 - **📝 Blog Management**: Complete feature-set for creating and retrieving blogs linked to user accounts.
 - **🔒 Environment Security**: Sensitive credentials safely abstracted and ignored via `.env`.
 
+<br>
+
 ## 🛠️ Tech Stack
 - **Backend Framework**: Node.js & Express.js
 - **Database**: MySQL & Sequelize ORM
@@ -35,6 +37,8 @@ A robust, secure, and fully-featured User Management System and Blog API built w
 - **Security & Validation**: Joi
 - **Mailing**: Nodemailer
 - **File Uploads**: Multer & Cloudinary
+
+<br>
 
 ## ⚙️ Installation & Setup
 1. **Clone the repository:**
@@ -63,8 +67,8 @@ A robust, secure, and fully-featured User Management System and Blog API built w
    npm run dev
    ```
 
-## 📖 API Documentation
-Detailed documentation for all API endpoints can be found in the [API Document](docs/api_document.md).
+
+<br>
 
 ## 📂 Architecture & Directory Structure
 - `/src/modules`: Contains domain-specific business logic (Auth, User, Blog).
@@ -73,8 +77,17 @@ Detailed documentation for all API endpoints can be found in the [API Document](
 - `/db`: Database connection pooling and Sequelize models.
 - `/docs`: Project documentation and API specifications.
 
+<br>
+
+## 📖 API Documentation
+Detailed documentation for all API endpoints can be found in the [API Document](docs/api_document.md).
+
+<br>
+
 ## 🤝 Contributing
 Contributions, issues, and feature requests are always welcome!
+
+<br>
 
 
 ## 📞 Contact

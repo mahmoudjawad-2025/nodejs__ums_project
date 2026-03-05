@@ -9,17 +9,24 @@ A robust, secure, and fully-featured User Management System and Blog API built w
 ---
 
 ## 📋 Table of Contents
-- [Key Features](#-key-features)
-- [Tech Stack](#-tech-stack)
+- [✨ Key Features](#-key-features)
+- [🚀 Tech Stack](#-tech-stack)
+- [📁 Project Structure](#-project-structure)
+- [🔑 Authentication Flow](#-authentication-flow)
+- [📦 API Modules](#-api-modules)
+- [❌ Error Handling](#-error-handling)
+- [⚙️ Getting Started](#-getting-started)
+- [🔐 Environment Variables](#-environment-variables)
+- [🤝 Contributing](#-contributing)
+- [📘 API Documentation](#-api-documentation)
+- [📞 Contact](#-contact)
+
 - [Installation & Setup](#-installation--setup)
 - [Architecture & Directory Structure](#-architecture--directory-structure)
-- [API Documentation](#-api-documentation)
-- [Contributing](#-contributing)
-- [Contact](#-contact)
 
 ---
 
-## 🚀 Key Features
+## ✨ Key Features
 - **🔐 Secure Authentication**: JWT-based login and registration with hashed passwords (`bcryptjs`).
 - **📧 Automated Emails**: Instant welcome emails sent upon user registration (`nodemailer`).
 - **🛡️ Data Validation**: Strict and secure input validation using `Joi`.
@@ -32,7 +39,7 @@ A robust, secure, and fully-featured User Management System and Blog API built w
 
 🛠️ Tech Stack
 
-## Tech Stack
+## 🚀 Tech Stack
 - **Backend Framework**: Node.js & Express.js
 - **Database**: MySQL & Sequelize ORM
 - **Authentication**: JSON Web Tokens (JWT) & bcryptjs
@@ -81,7 +88,7 @@ A robust, secure, and fully-featured User Management System and Blog API built w
 
 <br>
 
-## 📖 API Documentation
+## 📘 API Documentation
 Detailed documentation for all API endpoints can be found in the [API Document](docs/api_document.md).
 
 <br>

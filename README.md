@@ -11,7 +11,7 @@ A robust, secure, and fully-featured User Management System and Blog API built w
 ## 📋 Table of Contents
 - [✨ Key Features](#-key-features)
 - [🚀 Tech Stack](#-tech-stack)
-- [⚙️ Getting Started](#-getting-started)
+- [⚙️ Getting Started](#getting-started)
 - [📁 Project Structure](#-project-structure)
 - [🤝 Contributing](#-contributing)
 - [📘 API Documentation](#-api-documentation)

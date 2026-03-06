@@ -11,18 +11,12 @@ A robust, secure, and fully-featured User Management System and Blog API built w
 ## 📋 Table of Contents
 - [✨ Key Features](#-key-features)
 - [🚀 Tech Stack](#-tech-stack)
+- [⚙️ Installation & Setup](#-installation-&-setup)
 - [📁 Project Structure](#-project-structure)
-- [🔑 Authentication Flow](#-authentication-flow)
-- [📦 API Modules](#-api-modules)
-- [❌ Error Handling](#-error-handling)
-- [⚙️ Getting Started](#-getting-started)
-- [🔐 Environment Variables](#-environment-variables)
 - [🤝 Contributing](#-contributing)
 - [📘 API Documentation](#-api-documentation)
 - [📞 Contact](#-contact)
 
-- [Installation & Setup](#-installation--setup)
-- [Architecture & Directory Structure](#-architecture--directory-structure)
 
 ---
 
@@ -37,7 +31,6 @@ A robust, secure, and fully-featured User Management System and Blog API built w
 
 <br>
 
-🛠️ Tech Stack
 
 ## 🚀 Tech Stack
 - **Backend Framework**: Node.js & Express.js
@@ -79,7 +72,7 @@ A robust, secure, and fully-featured User Management System and Blog API built w
 
 <br>
 
-## 📂 Architecture & Directory Structure
+## 📂 Project Structure
 - `/src/modules`: Contains domain-specific business logic (Auth, User, Blog).
 - `/src/middlewares`: Reusable REST middlewares (e.g., `auth_mw.js`, `validation_mw.js`).
 - `/src/utils`: Core utilities for standardizing responses and third-party interactions (`email_service`, `global_error`).
